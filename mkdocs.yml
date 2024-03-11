@@ -1,0 +1,5 @@
+site_name: Cryxtalix's Tech Blog
+site_url: https://cryxtalix.com
+nav:
+  - Home: index.md
+theme: readthedocs
